@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<head>
+<title>My blog</title>
+</head>
+<body>
+<div id="header">
+<div class="container">
+<a href="index.html">My blog</a>
+<ul>
+<li><a href="about.html">About</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+<div id="content">
+<div class="container">
+<div class="about">
+<div class="about-author">
+<img src="mattyconrad-full-beard-2018-styles-mustache-e1522100878229.jpg>
+</div>
+<p class="about-date">Today</p>
+<h3 class="about-title">Becoming a web <strong>Developer</strong></h3>in
+a <em>week.</em>
+<div class="about-content">
+<p>Good Work</p>
+<span> My Mom</span>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div class="container">
+<div class="column">
+<h4>My Links</h4>
+<p>
+<a href="https://www.instagram.com/himanshushahr2487/">Instagram</a>
+<br>
+<a href="https://m.facebook.com/profile.php?ref=bookmarks>Facebook</a>
+</p>
+</div>
+<div class="column">
+<h4>My Story</h4>
+<p>Hi, I am SP Himanshu SHAH</p>
+</div>
+</div>
+</div>
+</body>
+</html>
